@@ -1,0 +1,1 @@
+# frontendMentor-01-novato-QR-code-component
